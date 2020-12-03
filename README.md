@@ -1,7 +1,7 @@
 # medicine-box
 Hello, 
 
-I am student now.
+I am a student now.
 
 This repository contains my daily codes,
 
